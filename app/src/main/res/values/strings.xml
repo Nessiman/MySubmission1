@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MySubmission1</string>
+    <string name="searchbar_hint">search name</string>
+    <string name="username_detail">\@%1$s</string>
+    <string name="followers">%1$d followers</string>
+    <string name="following">%1$d following</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="textview">Name</string>
+    <string name="username">user name</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="github_apps_by_nes">Github Apps by Nes</string>
+</resources>
